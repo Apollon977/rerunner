@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.3](https://github.com/aakash1552005/rerunner/compare/v0.3.2...v0.3.3) (2026-11-12)
+
+
+### Documentation
+
+* **readme:** update release badge, CLI reference, and pre-commit tag for v0.3.2 ([#119](https://github.com/aakash1552005/rerunner/issues/119)) ([669f73d](https://github.com/aakash1552005/rerunner/commit/669f73db337e42f5bd929f14726a26987adafdc2))
+
 ## [0.3.2](https://github.com/aakash1552005/rerunner/compare/v0.3.1...v0.3.2) (2026-11-12)
 
 
